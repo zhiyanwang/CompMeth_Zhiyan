@@ -24,8 +24,8 @@ for x_n in range(0,500):
     x.append(x_n/100)
     x_n += 1
 
-print (len(x))
-print (len(E_x))
+print(len(x))
+print(len(E_x))
 
 plt.plot(x,E_x,"purple")
 plt.xlabel("x")

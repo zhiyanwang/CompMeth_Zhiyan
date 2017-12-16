@@ -68,6 +68,7 @@ for n3 in range(points3):
     x3 += [r3*cos(theta3)]
     y3 += [r3*sin(theta3)]
 
+
 plt.plot(x3,y3,"purple")
 plt.xlabel("x-axis")
 plt.ylabel("y-axis")

@@ -3,6 +3,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 ################### Method 1 ###################
 
 x_array=[]

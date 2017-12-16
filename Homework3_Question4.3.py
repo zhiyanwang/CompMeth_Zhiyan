@@ -30,4 +30,5 @@ print("The difference is: ", (2-y0))
 # The result for delta = 10^-12 is 2.0000667788622195, with difference -6.67788622195e-05
 # The result for delta = 10^-14 is 1.9984014443252818, with difference 1.5985556747182e-03
 
+
 # The accuracy of the calculation gets worse as delta gets smaller

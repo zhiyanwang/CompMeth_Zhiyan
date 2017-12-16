@@ -21,5 +21,5 @@ for k in range(1,m+1):
         c += 1
 print("Factorial calculated using float-point variable: ", f, "x 10 ^",c)
 
-# Since 200! is bigger than 10^308, trying to get it directly with integer
-# will result in overflow error and infinite number.
+# Since 200! is bigger than 10^308,
+# trying to get it directly with integer will result in overflow error and infinite number.
